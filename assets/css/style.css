@@ -1,0 +1,13 @@
+.html{
+    background-image: url(/assets/images/picture.png);
+    color: black;
+    background-repeat: no-repeat;
+   
+    background-position: center;
+    text-align: center;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  
+}
